@@ -1,0 +1,22 @@
+{
+  "name": "MMCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of MMCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/michaelmaomao/MMCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "michaelmaomao": "1512718349@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/michaelmaomao/MMCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MMCategoryKit/Classes/**/*"
+}
