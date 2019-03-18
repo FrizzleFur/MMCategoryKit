@@ -5,6 +5,12 @@
 [![License](https://img.shields.io/cocoapods/l/MMCategoryKit.svg?style=flat)](https://cocoapods.org/pods/MMCategoryKit)
 [![Platform](https://img.shields.io/cocoapods/p/MMCategoryKit.svg?style=flat)](https://cocoapods.org/pods/MMCategoryKit)
 
+
+MMCategoryKit provide useful category for developing Objc project, make you developing faster.
+
+        * UIKit Category. 
+
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
@@ -22,7 +28,7 @@ pod 'MMCategoryKit'
 
 ## Author
 
-michaelmaomao, 1512718349@qq.com
+FrizzleFur,  s1512718349@gmail.com
 
 ## License
 
