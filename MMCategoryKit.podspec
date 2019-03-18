@@ -19,11 +19,11 @@ Pod::Spec.new do |s|
 
   s.description      = 'MMCategoryKit provide useful category for developing Objc project, make you developing faster.'
 
-  s.homepage         = 'https://github.com/FrizzleFur/MMKit.git'
+  s.homepage         = 'https://github.com/FrizzleFur/MMCategoryKit.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'FrizzleFur' => '2415262845@qq.com' }
-  s.source           = { :git => 'https://github.com/FrizzleFur/MMKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/FrizzleFur/MMCategoryKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
