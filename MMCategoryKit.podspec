@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'MMCategoryKit'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of MMCategoryKit.'
+  s.summary          = 'MMCategoryKit provide useful category for developing Objc project, make you developing faster.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
